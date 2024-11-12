@@ -15,7 +15,7 @@ require (
 
 require (
 	github.com/cenkalti/backoff/v4 v4.1.2 // indirect
-	github.com/golang-jwt/jwt/v4 v4.4.2 // indirect
+	github.com/golang-jwt/jwt/v4 v4.5.1 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/mitranim/gg v0.0.13 // indirect
